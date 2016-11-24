@@ -12,7 +12,7 @@ Team:
   
 Teamaufteilung: 
   - Christina Grasl: 
-            Erstellen und Schreiben des Protokolls
+            Erstellen und Schreiben des Protokolls,
             Erstellen der ReadMe-Datei
             
   - Marco Matouschek:
